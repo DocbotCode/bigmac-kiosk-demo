@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.header("Yohan Song (21500361)")
+st.text("Yohan Song (21500361)")
 
 st.title("Order")
 
